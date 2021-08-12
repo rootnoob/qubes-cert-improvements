@@ -12,4 +12,4 @@ Please read first: [Open Letter to Qubes Team](open-letter-to-qTeam.md)
 [Who is Qubes Certified?](whois-certified.md)  
 
 [Partners Program](partners-program/)  
-- [Certification Partners List](partners-program/partners-list.md)
+- [Certification Partners List](partners-program/partner-list.md)
