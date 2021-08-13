@@ -6,6 +6,8 @@
 - Agree upon initial version for each certification - including the shared elements (i.e: hardware-kill-switch, etc)
 - Finalise T&Cs for each certification
 - Adopt/adapt existing docs for manufacturer documentation
+- Make 'why become qubes certified?' pretty
+- Makes 'who is qubes certified?' pretty
 
 <h1>Work Done List</h1>
 
