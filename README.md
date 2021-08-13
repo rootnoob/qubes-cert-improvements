@@ -16,3 +16,7 @@ Please read first: [Open Letter to Qubes Team](open-letter-to-qTeam.md)
 
 [Partners Program](partners-program/)  
 - [Certification Partners List](partners-program/partner-list.md)
+
+
+
+(Where markdown links are empty, see the rawfile for the link placeholder - i.e: what is suggested to be added).  
