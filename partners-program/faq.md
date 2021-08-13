@@ -1,4 +1,4 @@
-<h1>Trusted Partners Program (for certification) FaQ</h1>
+<h1>Trusted (certification) Partners Program FaQ</h1>
 
 The trusted partners program enables manufacturers to become qubes certified with less work.  
 
