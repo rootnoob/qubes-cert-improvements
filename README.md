@@ -1,7 +1,7 @@
 **DISCLAIMER**:  
 This has no official relation to QubesOS, this repo is for collaborating to improve the Qubes certification program.  
 
-\<h1>Qubes Certification Program</h1>
+<h1>Qubes Certification Program</h1>
 
 Please read first: [Open Letter to Qubes Team](open-letter-to-qTeam.md)  
 - See [work-list](work-list.md) for to-do & work-done  
