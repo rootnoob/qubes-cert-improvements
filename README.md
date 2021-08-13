@@ -1,5 +1,6 @@
 **DISCLAIMER**:  
-This has no official relation to QubesOS, this repo is for collaborating to improve the Qubes certification program.  
+This has no official relation to QubesOS.  
+This repo is for collaborating to suggest improvements to Qubes Certification program.  
 
 <h1>Qubes Certification Program</h1>
 
