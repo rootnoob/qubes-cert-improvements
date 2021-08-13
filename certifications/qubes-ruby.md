@@ -1,6 +1,6 @@
 <h1>Qubes Ruby Certified</h1>
 
-(Current) Specification Version: **WiP - not yet confirmed*  
+(Current) Specification Version: **WiP - not yet confirmed**  
 
 <h2>Product Requirements</h2>
 
