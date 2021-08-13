@@ -6,8 +6,8 @@
 
 - The current stable release version of Qubes must be supported. [See Current Release Requirements]()  
 - The firmware must be Open-source ([see details/exceptions](specifications/open-source-firmware.md))    
-- The device must be Trusted Stick Standard certified
-- The device must be Internal Retransmission Device Standard Certified
+- The device must be Trusted Stick Standard certified (pending final standard)
+- The device must be Internal Retransmission Device Standard Certified (pending final standard)
 - Hardware Kill Switches ([see details](specifications/hardware-kill-switches.md)) must be provided for all of the following components:  
 Speakers  
 Microphones  
