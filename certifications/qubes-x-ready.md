@@ -6,7 +6,7 @@
 
 <h2>Help</h2>
 
-Bespoke support is available to manufacturers to ensure compatibility. We work closely with trusted partners with whom we have exclusive relationships to enable you to obtain Qubes Gold Certification for your product with minimal effort.  
+Bespoke support is available to manufacturers to ensure compatibility. We work closely with trusted partners, with whom we have exclusive relationships, to enable you to obtain Qubes x Ready certifications for your product with minimal effort.  
 We have curated documentation specifically for manufacturers - See: [Manufacturer Documentation Index](/qubes/certification/manufacturer-documentation-index.md)  
 
 <h2>T&Cs</h2>
